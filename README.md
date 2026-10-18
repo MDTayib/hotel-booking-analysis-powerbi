@@ -248,16 +248,9 @@ Its conclusions should be interpreted according to the source data, its quality,
 
 ## 👨‍💻 Author
 
-**Aspiring Data Analyst**
-
-Developing practical skills in:
-
-- Microsoft Excel
-- SQL
-- Power BI
-- DAX
-- Python
-- Data Analytics
+**[Mohammed Tayib]** – Aspiring Data Analyst
+Skills: Excel · SQL · Power BI · DAX · Python
+🔗 [LinkedIn](https://www.linkedin.com/in/md-tayib-b67566307/) · 💻 [GitHub](https://github.com/MDTayib)
 
 ---
 
